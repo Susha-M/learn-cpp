@@ -1,0 +1,6 @@
+Arrays are inherited from C, C++’s parent language. They are a low-level data structure and are incredibly rigid. 
+With arrays, you can’t add or remove elements; you can only modify existing elements.
+Vectors are originated from arrays. Early in the creation of C++, the language developers took these basic arrays and
+wrote code to enhance them and make them more flexible and powerful. 
+Therefore you can think of vectors as super arrays!
+Vectors don’t require a static size. It’s possible to add and remove elements from them, as well as access their current size at any time.
