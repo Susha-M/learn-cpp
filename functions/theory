@@ -1,1 +1,9 @@
+ Function is a named group of code statements that accomplish something together, a bit like a factory machine.
 
+There are some great reasons to use functions in your code:
+
+A single line can make all that code fire off instead of a whole bunch of lines.
+You can build DRY (Don’t Repeat Yourself) code, reusing the code you already wrote.
+Functions help make your code flexible and modular, meaning you can group your code more easily by task.
+
+main() is a function that you’ve already used!
