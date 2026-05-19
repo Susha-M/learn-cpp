@@ -6,10 +6,10 @@ using namespace std;
 
 int main() {
 
-  /*Takes a phrase like "turpentine and turtles" and translate it into its “whale talk” equivalent, "uueeieeauuee".
+  /*Takes a phrase like "turpentine and turtles" and translate it into its â€œwhale talkâ€ equivalent, "uueeieeauuee".
   There are a few simple rules for translating text to whale language:
   There are no consonants. Only vowels excluding the letter y.
-  The u‘s and e‘s are extra long, so we must double them. */
+  The uâ€˜s and eâ€˜s are extra long, so we must double them. */
 
   string word;
   //cin>>word;
